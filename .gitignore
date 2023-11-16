@@ -1,0 +1,7 @@
+*.log
+/logs
+/street_fight
+/tensorboard
+/logs
+**__pycache__**
+/trained_models
