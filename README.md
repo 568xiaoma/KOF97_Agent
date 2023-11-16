@@ -15,6 +15,7 @@ pip install -r env/packages.txt
 1. 安装MobaXterm
 2. Settings->Configration->X11-> X11 Remote Access选择为full
 3. 连接远程服务器，正常显示为
+
 ![](figures/xmoba.png)
 4. 输入$DISPLAY可以看到输出```localhost:xx.0```
 5. 保持MobaXterm连接，可以在VSCode中进行开发
