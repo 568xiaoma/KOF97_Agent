@@ -17,6 +17,7 @@ pip install -r env/packages.txt
 3. 连接远程服务器，正常显示为
 
 ![](figures/xmoba.png)
+
 4. 输入$DISPLAY可以看到输出```localhost:xx.0```
 5. 保持MobaXterm连接，可以在VSCode中进行开发
 **需要在VSCode终端中重新赋值DISPLAY环境变量与MobaXterm终端保持一致**
